@@ -2,10 +2,10 @@
 ## Repositorio del Módulo 3 de la beca "DEV.F"
 
 El actual repositorio se ha dividido de tal manera que sea sencillo el tránsito entre sus apartados.
-Estos apartados corresponden a las clases que se han tenido durante el Módulo 3, las cuales serán almacenadas en carpetas con sus respectivos nombres descriptivos.
-> Clase01, Clase02, Clase03,...
+Estos apartados corresponden a las clases que se han tenido durante el Módulo 3, las cuales serán almacenadas en carpetas con sus respectivos nombres descriptivos:
+- Clase01, Clase02, Clase03,...
 
-### Clase01: Primer acercamiento a JS.
+### Clase01: Introducción a JavaScript.
 > # Entregables:
 > - Utilizar y Trabajar con Datos Primitivos y Datos de Referencia (Compuestos).
 > - Declarar Variables que contengan los distintos tipos de datos.
@@ -18,6 +18,6 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 
 
 <p align="right">
-    <strong>Autor:</strong><br>
+    <strong style = "font-size: 25px">Autor:</strong><br>
     Oscar Adrián González Javalera
 </p>
