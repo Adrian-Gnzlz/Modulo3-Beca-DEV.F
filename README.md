@@ -12,12 +12,12 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 > - Mostrar en consola el tipo de dato de cada vabiale mediante el comando "console.log(typeof 'nombreVariable')".
 > - Mostrar en consola los valores específicos que cada variable contiene mediante el comando "console.log('nombreVariable')".
 
-> - Crear una variable con tipo Object, Array y Fecha.
+> - Crear una variable con tipo Object, Array, Function y Fecha.
 > - Ver el funcionamiento de estas variables.
 
 
 
 <p align="right">
-    <strong style = "font-size: 25px">Autor:</strong><br>
+    <strong style = "font-size: 35px">Autor:</strong><br>
     Oscar Adrián González Javalera
 </p>
