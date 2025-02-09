@@ -15,7 +15,7 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 > - Crear una variable con tipo Object, Array, Function y Fecha.
 > - Ver el funcionamiento de estas variables.
 
-### Clase01: Introducción a JavaScript.
+### Clase02: Comparaciones y decisiones en JavaScript.
 > # Entregables:
 > - Entender el funcionamiento de las variables, comparaciones y toma de decisiones mediante la realizacion de problemas simples.
 
