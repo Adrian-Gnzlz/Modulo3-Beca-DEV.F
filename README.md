@@ -15,6 +15,20 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 > - Crear una variable con tipo Object, Array, Function y Fecha.
 > - Ver el funcionamiento de estas variables.
 
+### Clase01: Introducción a JavaScript.
+> # Entregables:
+> - Entender el funcionamiento de las variables, comparaciones y toma de decisiones mediante la realizacion de problemas simples.
+
+> - El ejercicio conciste en asignar un mensaje dependiendo de la nota (conseguida mediante la asignacion de un numero random entre 0 y 100 a una variable).
+>   - Mayor a 90: Excelente.
+>   - Entre 75 y 89: Bien.
+>   - Entre 60 y 74: Suficiente.
+>   - Menor a 60: Reprobatoria. 
+
+> - De igual manera se tienen otros tres ejercicios complementarios:
+>   - Comprobacion numeros pares e impares.
+>   - Comparar si un numero es primo o no es primo.
+>   - Averiguar la estacion del ano en la que estamos.
 
 
 <p align="right">
