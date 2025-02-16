@@ -17,7 +17,7 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 
 ### Clase02: Comparaciones y decisiones en JavaScript.
 > # Entregables:
-> - Entender el funcionamiento de las variables, comparaciones y toma de decisiones mediante la realizacion de problemas simples.
+> Entender el funcionamiento de las variables, comparaciones y toma de decisiones mediante la realizacion de problemas simples.
 
 > - (Archivo: Comparaciones_decisiones.js) El ejercicio conciste en asignar un mensaje dependiendo de la nota (conseguida mediante la asignacion de un numero random entre 0 y 100 a una variable).
 >   - Mayor a 90: Excelente.
@@ -29,6 +29,24 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 >   - Comprobacion numeros pares e impares.
 >   - Comparar si un numero es primo o no es primo.
 >   - Averiguar la estacion del ano en la que estamos.
+
+### Clase03: Arreglos y cliclos.
+> # Entregables:
+> Utilizar y practicar con arreglos y ciclos (for / while).
+> Se tienen dos archivos, uno que contiene el problema de clasificacion de frutas que se entrega para esta practica. Y el otro para ejercicios planteados en clase.
+
+> - (Archivo: practica_arreglos_ciclos.js) Clasificacion de frutas segun su tipo haciendo uso de arreglos, ciclos y objetos.
+
+> - (Archivo: ejercicios_clase.js) Aqui se tienen cuatro ejercicios complementarios. Los primeros tres ejercicios deberan ser ejecutados desde el archivo html (index.html), mientras que el ultimo ejercicio puede ser ejecutado desde el codigo (mostrando su resultado en consola):
+>   - Tabla de multiplicar utilizando ciclos. 
+>   - Contar los digitos de un numero.
+>   - Obtener la suma de los digitos de un numero.
+>   - Encontrar el numero mayor de un arreglo
+
+
+
+
+
 
 
 <p align="right">
