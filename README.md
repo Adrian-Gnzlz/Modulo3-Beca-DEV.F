@@ -30,7 +30,7 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 >   - Comparar si un numero es primo o no es primo.
 >   - Averiguar la estacion del ano en la que estamos.
 
-### Clase03: Arreglos y cliclos.
+### Clase03: Arreglos y cliclos en javaScript.
 > # Entregables:
 > Utilizar y practicar con arreglos y ciclos (for / while).
 > Se tienen dos archivos, uno que contiene el problema de clasificacion de frutas que se entrega para esta practica. Y el otro para ejercicios planteados en clase.
@@ -43,6 +43,20 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 >   - Obtener la suma de los digitos de un numero.
 >   - Encontrar el numero mayor de un arreglo
 
+### Clase04: Funciones en JavaScript.
+> # Entregables:
+> Utilizar y practicar Funciones.
+> Se tienen tres archivos, uno que contiene la creación de un sistema para llevar el seguimiento de los libros leídos que se entrega para esta practica. Y el otro para ejercicios planteados en clase y por último un archivo html para la ejecución de los ejercicios planteados en clase.
+
+> - (Archivo: practica_funciones.js) Sistema para hacer seguimiento de los libros que he leído.
+
+> - (Archivo: ejerciciosClases.js) Aqui se tienen cinco ejercicios complementarios, los cuales deberan ser ejecutados desde el archivo html (index.html):
+>   - Determinar si una palabra (cadena de caracteres) es un palindromo. 
+>   - Filtrar los numeros mayores de 5.
+>   - Calcular el area de un circulo.
+>   - Un jercicio de anteriores clases y convertirlo en funcion.
+>       - Encontrar el numero mayor de un arreglo (Ejercicio de Clase03).
+>   - Crear operaciones matematicas básicas.
 
 
 
