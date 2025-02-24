@@ -58,8 +58,14 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 >       - Encontrar el numero mayor de un arreglo (Ejercicio de Clase03).
 >   - Crear operaciones matematicas básicas.
 
+### Clase05: Objetos en JavaScript.
+> # Entregables:
+> Pracitcar los conceptos básicos de objetos en JS.
+> Se tiene un archivo que contiene la creación de un objeto que contenga varias propiedades y un método para imprimir la información básica del libro.
 
-
+> - (Archivo: practica_objetivos.js) Crear, agregar, eliminar y mostrar informacion de libros.
+>   - Agregar varios libros y mostrar su información basica.
+>   - Agregar la capacidad de anadir capitulos y poder eliminarlos.
 
 
 
@@ -67,3 +73,6 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
     <strong style = "font-size: 35px">Autor:</strong><br>
     Oscar Adrián González Javalera
 </p>
+
+
+git commit -m "Entregable clase05 -18/02/2025-: Quinta Practica"
