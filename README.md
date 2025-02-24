@@ -67,6 +67,24 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 >   - Agregar varios libros y mostrar su información basica.
 >   - Agregar la capacidad de anadir capitulos y poder eliminarlos.
 
+### Clase06: Introducción al DOM con JavaScript.
+> # Entregables:
+> Pracitcar los conceptos básicos del DOM en JS.
+> Se tienen dos archivos y una carpeta, los archivos sueltos corresponden a ejercicios planteados en clase. La carpeta 'practica_DOM' contiene tres archivos: uno .js, otro .css y otro .html.
+
+> - (Carpeta: practica_DOM):
+>   - (Archivo: practica_DOM.html) Estructura general de la página web de la práctica.
+>       - Este archivo será utilizado para correr el programa (Open with live server).
+>   - (Archivo: practica_DOM.css) Visual de la página web de la práctica.
+>   - (Archivo: practica_DOM.jss) Funcionamiento de la página web de la práctica.
+
+> - (Archivo: ejerciciosClase.js) Aquí se tienen tres problemas planteados en clase:
+>   - Cambiar color de un texto cuando se presione un botón.
+>   - Crea un elemento que permita ocultar o mostrar un parrafo cada vez que se presione.
+>   - Contador de clicks al presionar un botón.
+>   - (Archivo: ejerciciosClase.html) Estructura general de la página con los ejercicios planteados en clase.
+>       -  Este archivo será utilizado para correr el programa (Open with live server).
+
 
 
 <p align="right">
@@ -75,4 +93,3 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 </p>
 
 
-git commit -m "Entregable clase05 -18/02/2025-: Quinta Practica"
