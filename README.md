@@ -99,8 +99,7 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 ### PROYECTO FINAL: App de Comentarios.
 > # Entregables:
 > Para esta práctica creé una página web en la cual se pudeiran subir comentarios para varias publicaciones.
-> Se tienen muchos archivos, estos archivos corresponden al proyecto planteado para esta entrega, un generador de contraseñas.
-> - Esta práctica consiste en crear un generador de contrasenas aleatorias con ciertas caracteristicas que el usuario podrá elegir.
+> Se tienen muchos archivos, estos corresponden a varias partes del proyecto, a continuación se explicarán.
 
 > - (Archivo: index.html) Aqui se tiene el esqueleto de la página con el generador. Para correr el programa se deberá correr este archivo.
 > - (Archivo: style.css) Aqui se tienen los estilos para la página.
