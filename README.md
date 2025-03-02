@@ -85,6 +85,18 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 >   - (Archivo: ejerciciosClase.html) Estructura general de la página con los ejercicios planteados en clase.
 >       -  Este archivo será utilizado para correr el programa (Open with live server).
 
+### Clase07: Dominando el DOM en JS: Generador de Password.
+> # Entregables:
+> Practicar los conceptos básicos del DOM con JS y html.
+> Se tienen tres archivos, estos archivos corresponden al proyecto planteado para esta entrega, un generador de contraseñas.
+> - Esta práctica consiste en crear un generador de contrasenas aleatorias con ciertas caracteristicas que el usuario podrá elegir.
+
+> - (Archivo: index.html) Aqui se tiene el esqueleto de la página con el generador. Para correr el programa se deberá correr este archivo.
+> - (Archivo: style.css) Aqui se tienen los estilos para la página.
+> - (Archivo: script.js) Aqui se tienen los scripts con la lógica para el funcionamiento de la página.
+
+
+
 
 
 <p align="right">

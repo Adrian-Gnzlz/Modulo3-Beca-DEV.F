@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Generador De Contraseñas</title>
+</head>
+<body>
+    <section class="contenedor-contrasena">
+        <h1>Generador de Contraseñas</h1> <br>
+        <section class="subcontenedor-top">
+            <div>
+                <span id="ejemplo-contrasena">P4$5W0rD!</span>
+            </div>
+            <div>
+                <i class="fa-regular fa-copy"></i>
+            </div>
+        </section>
+        
+        <section class="subcontenedor-down">
+            <section class="selector-cantidad">
+                <div id="mostrar-cantidad-caracteres">
+                    <span>Longitud de Contraseña</span>
+                    <span id="cantidad-caracteres">10</span>
+                </div>
+
+                <input type="range" id="slider" min="0" max="20" value="10">
+            </section>
+
+            <section class="selector-caracteristicas">
+                <div>
+                    <input type="checkbox" id="checkbox1"> 
+                    <input type="checkbox" id="checkbox2"> 
+                    <input type="checkbox" id="checkbox3"> 
+                    <input type="checkbox" id="checkbox4"> 
+                </div>
+                <div id="labels">
+                    <label>Incluir Mayúsculas</label>
+                    <label>Incluir Minúsculas</label>
+                    <label>Incluir Números</label>
+                    <label>Incluir Símbolos</label>
+                </div>
+            </section>
+
+            <section class="mostrar-fuerza">
+                <div class="fuerza-label">
+                    <span>FUERZA</span>
+                    <span id="nivel-fuerza"></span>
+                </div>
+                <section class="contenedor-barras-fuerza">
+                    <div class="barra" id="barra1"></div>
+                    <div class="barra" id="barra2"></div>
+                    <div class="barra" id="barra3"></div>
+                    <div class="barra" id="barra4"></div>
+                </section>
+            </section>
+            
+            <section class="contenedor-boton-generar">
+                <div class="boton-generar">
+                    <span onclick="generarContrasena()">GENERAR</span>
+                    <i class="fa-solid fa-arrow-right"></i>
+                </div>
+            </section>
+
+            
+            <div id="mensajeCopiado"> ¡Copiado!</div>
+
+        </section>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
