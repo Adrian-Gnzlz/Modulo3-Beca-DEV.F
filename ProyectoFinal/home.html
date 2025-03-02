@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/home.css">
+    <title>Document</title>
+</head>
+<body data-comments="home">
+    <header class="encabezado-principal">
+        <div class="encabezado-izquierda">
+            <a href="#"><span class="logo">NombreSuit</span></a>
+        </div>
+
+        <nav class="encabezado-centro">
+            <ul>
+                <li><a href="#">Trayectoria</a></li>
+                <li><a href="#">Productos</a></li>
+                <li><a href="#">ApartadoPrueba</a></li>
+                <li><a href="#">ApartadoPrueba</a></li>
+            </ul>
+        </nav>
+
+        <div class="encabezado-derecha">
+            <a href="#" class="btn-contacto">Contactanos</a>
+            <a href="index.html" class="btn-logout">Cerrar Sesion</a>
+        </div>
+    </header>
+
+    <section class="contenedor-titulo">
+        <h1>InnovaTec2024</h1>
+        <p>¡RÁPIDO! No pierdas tu oportunidad de comentar sobre tu experiencia en el InnovaTec2024</p>
+        <img src="./asets/InnovaNacional2024.jpg" alt="">
+    </section>
+    
+    <section class="imagenes-innova">
+        <div id="imagenCinco">
+            <h2>ChemData, ¡Educacion Para Todos!</h2>
+            <a href="PrimerImagen.html">
+                <img src="./asets/imagen5.jpg" alt="">
+            </a>
+            </div>
+        <div id="imagenUno">
+            <h2>Exponiendo Proyecto en instituciones educativas</h2>
+            <a href="SegundaImagen.html">
+                <img src="./asets/imagen1.jpg" alt="">
+            </a>
+        </div>
+        <div id="imagenCuatro">
+            <h2>Vista del paisaje rumbo a Colima</h2>
+            <a href="TerceraImagen.html">
+                <img src="./asets/imagen4.jpg" alt="">
+            </a>
+            </div>
+        <div id="imagenTres">
+            <h2>Antes de exponer proyecto</h2>
+            <a href="CuartaImagen.html">
+                <img src="./asets/imagen3.jpg" alt="">
+            </a>
+            </div>
+        <div id="imagenDos">
+            <h2>Si lo encuentra reportese con nosotros!!!</h2>
+            <a href="QuintaImagen.html">
+                <img src="./asets/imagen2.jpg" alt="">
+            </a>
+            </div>
+    </section>
+
+    <section class="comment-container">
+        <h2>Comentarios</h2>
+        <p>Por favor, comente que le pareció esta experiencia en la caja de comentarios :)</p>
+        <p id="user-info"></p>
+        <textarea placeholder="Publica tu comentario" id="comment"></textarea>
+        <button onclick="postComment()">Publicar</button>
+
+        <section id="comment-section"></section>
+    </section>
+
+    <script src="./scripts/home.js"></script>
+</body>
+</html>

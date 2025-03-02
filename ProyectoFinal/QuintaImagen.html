@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/home.css">
+    <title>Document</title>
+</head>
+<body data-comments="quintaimagen">
+    <header class="encabezado-principal">
+        <div class="encabezado-izquierda">
+            <a href="home.html"><span class="logo">NombreSuit</span></a>
+        </div>
+
+        <nav class="encabezado-centro">
+            <ul>
+                <li><a href="#">Trayectoria</a></li>
+                <li><a href="#">Productos</a></li>
+                <li><a href="#">ApartadoPrueba</a></li>
+                <li><a href="#">ApartadoPrueba</a></li>
+            </ul>
+        </nav>
+
+        <div class="encabezado-derecha">
+            <a href="#" class="btn-contacto">Contactanos</a>
+            <a href="index.html" class="btn-logout">Cerrar Sesion</a>
+        </div>
+    </header>
+
+    <section class="contenedor-titulo2">
+        <h1>InnovaTec2024</h1>
+        <p>si lo ha visto, mandenos mensaje a nuestras redes sociales!!!</p>
+        <img src="./asets/imagen2.jpg" alt="" id="imagenCinco">
+    </section>
+
+    <section class="comment-container2">
+        <h2>Comentarios</h2>
+        <p>Por favor, comente que le pareció esta experiencia en la caja de comentarios :)</p>
+        <p id="user-info"></p>
+        <textarea placeholder="Publica tu comentario" id="comment"></textarea>
+        <button onclick="postComment()">Publicar</button>
+
+        <section id="comment-section"></section>
+    </section>
+
+    <script src="./scripts/home.js"></script>
+</body>
+</html>
