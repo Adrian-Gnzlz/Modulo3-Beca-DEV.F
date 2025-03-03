@@ -101,9 +101,39 @@ Estos apartados corresponden a las clases que se han tenido durante el Módulo 3
 > Para esta práctica creé una página web en la cual se pudeiran subir comentarios para varias publicaciones.
 > Se tienen muchos archivos, estos corresponden a varias partes del proyecto, a continuación se explicarán.
 
-> - (Archivo: index.html) Aqui se tiene el esqueleto de la página con el generador. Para correr el programa se deberá correr este archivo.
-> - (Archivo: style.css) Aqui se tienen los estilos para la página.
-> - (Archivo: script.js) Aqui se tienen los scripts con la lógica para el funcionamiento de la página.
+> - (Archivo: index.html) Aqui se tiene el inicio de sesion con los usuarios y contrasenas definidas. Para correr el programa se deberá correr este archivo.
+> - (Carpeta: styles.css) Aqui se tienen los estilos para las páginas.
+>   - styles.css: el estilo para el inicio de sesion.
+>   - home.css: el estilo para las paginas en que se publican comentarios:
+>     - home.html
+>     - PrimerImagen.html
+>     - SegundaImagen.html
+>     - TerceraImagen.html
+>     - CuartaImagen.html
+>     - QuintaImagen.html
+> - (Carpeta: scripts.js) Aqui se tienen los scripts con la lógica para el funcionamiento de las páginas.
+>   - script.js: el estilo para el inicio de sesion.
+>   - home.js: el estilo para las paginas en que se publican comentarios:
+>     - home.html
+>     - PrimerImagen.html
+>     - SegundaImagen.html
+>     - TerceraImagen.html
+>     - CuartaImagen.html
+>     - QuintaImagen.html
+
+> Una vez se inicia sesión, se entrará a 'home.html', donde se podrán ver un header, texto e imágenes, la imágen del centro más grande no será cliqueable. Las cinco imágenes de abajo sí se pueden cliquear, al presionar a cada una de ellas se mandará a sus respectivas páginas html donde se podrá publicar comentarios para cada imágen en específico.
+> Al igual, en 'home.html' también se tiene una zona de comentarios en la parte inferior de la página.
+
+> Consideraiones generales. 
+> Los botones que tienen asignada una función son los siguientes:
+> - Iniciar Sesion.
+> - NombreSuit (header): Te lleva a la pagina principal con las 5 imagenes.
+> - Cerrar Sesion: Mandará al index.html para colocar la contraseña.
+> - Las 5 imagenes: al presionar cada una lo llevará a su respectiva pagina en la que comentará cosas específicas sobre cada una. 
+>   - IMPORTANTE: Cabe aclarar que cada pagina tiene su propio sistema de comentarios, los que se publiquen en la imagen 1 no aparecerán en ninguna otra, así mismo con todas las demás. 
+>   - ADEMAS: los comentarios se mantendrán si sale y vuelve a entrar a una imagen en específico.
+> - Publicar.
+> - Eliminar Comentario.
 
 
 <p align="right">
